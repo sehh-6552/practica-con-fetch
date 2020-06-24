@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Manolo",
+        "apellido": "Garcia",
+        "trabajo": "Servidora Sexul",
+        "gay": true
+
+    },
+    {
+        "nombre": "Alvaro",
+        "apellido": "Alonzo",
+        "trabajo": "Militar",
+        "gay": false
+    },
+    {
+        "nombre": "Eli",
+        "apellido": "Garcia",
+        "trabajo": "Chofer",
+        "gay": true
+    },
+    {
+        "nombre": "Tiro",
+        "apellido": "Loco",
+        "trabajo": "Comer",
+        "gay": false
+    }
+]
